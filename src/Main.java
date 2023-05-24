@@ -112,5 +112,6 @@ public class Main {
                     " Годовой доход вырос на " + razzpDenis + " рублей.") ;
             System.out.println("Кристина теперь получает " + zppovKrtistina +
                     " Годовой доход вырос на " + razzpKristina + " рублей.") ;
+            // ДЗ по переменным урок2 считаю выполненным.
     }
 }
